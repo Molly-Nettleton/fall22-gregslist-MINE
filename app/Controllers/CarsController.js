@@ -11,6 +11,7 @@ function drawCars() {
 }
 
 
+
 export class CarsController {
   constructor() {
     drawCars() // NOTE draw cars on page load do not do this for houses or jobs
